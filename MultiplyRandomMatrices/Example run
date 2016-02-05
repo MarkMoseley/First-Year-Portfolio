@@ -1,0 +1,57 @@
+
+ ----jGRASP exec: java MultiplyRandomMatrices
+
+This program generates two 3x3 matrices and then fill them with random numbers.
+It then multiplies the two matrices together and outputs the product.
+
+6 0 5 
+5 5 3 
+2 7 2 
+
+9 8 4 
+6 0 7 
+1 5 1 
+
+59 73 29 
+78 55 58 
+62 26 59 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MultiplyRandomMatrices
+
+This program generates two 3x3 matrices and then fill them with random numbers.
+It then multiplies the two matrices together and outputs the product.
+
+5 2 6 
+5 6 3 
+5 5 8 
+
+0 7 4 
+1 0 4 
+0 0 8 
+
+2 35 76 
+6 35 68 
+5 35 104 
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MultiplyRandomMatrices
+
+This program generates two 3x3 matrices and then fill them with random numbers.
+It then multiplies the two matrices together and outputs the product.
+
+8 3 6 
+7 8 6 
+3 2 6 
+
+4 1 0 
+0 5 0 
+6 4 7 
+
+68 47 42 
+64 71 42 
+48 37 42 
+
+ ----jGRASP: operation complete.
