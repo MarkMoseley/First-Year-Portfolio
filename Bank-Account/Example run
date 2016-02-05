@@ -1,0 +1,8 @@
+
+ ----jGRASP exec: java Account
+
+The account id is 1122.
+It was created on Fri Feb 05 16:26:47 EST 2016.
+The balance is 20500.0 and the monthly interest is 76.875.
+
+ ----jGRASP: operation complete.
