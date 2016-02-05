@@ -1,0 +1,21 @@
+
+ ----jGRASP exec: java MakeATree
+
+This program will make a tree of "*'s" based on a given height.
+
+Please enter an integer value greater than one for the height of the tree: -5
+
+Please enter an integer value GREATER than one for the height of the tree: 0
+
+Please enter an integer value GREATER than one for the height of the tree: .05
+
+Please enter an integer value GREATER than one for the height of the tree: 1.5
+
+Please enter only an INTEGER value greater than one for the height of the tree: 4
+
+   * 
+  * * 
+ * * * 
+* * * * 
+
+ ----jGRASP: operation complete.
