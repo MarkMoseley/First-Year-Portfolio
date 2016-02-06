@@ -1,0 +1,15 @@
+
+/* Aligns the header in the center of the page*/
+#header{
+	text-align:center;
+}
+
+/*Added a bottom padding to the bottom to stop the text from ending so abrubtly*/
+body{
+	padding-bottom:35px;
+}
+
+/*Added top padding to make the profile picture line up better with the adjacent header*/
+img{
+	padding-top: 25px;
+}
