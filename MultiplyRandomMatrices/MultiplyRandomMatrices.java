@@ -29,9 +29,9 @@ public class MultiplyRandomMatrices
       FillMatrixRandomNumbers (matrixTwo);
       
       //Reads out the matrix to the user
-      ReadMatrix(matrixOne);
+      PrintMatrix(matrixOne);
       System.out.println("");
-      ReadMatrix(matrixTwo);
+      PrintMatrix(matrixTwo);
       System.out.println("");
       
       //create an array to hold the product
@@ -41,7 +41,7 @@ public class MultiplyRandomMatrices
       product = MultiplyMatrix(matrixOne, matrixTwo);
       
       //read out product
-      ReadMatrix(product);
+      PrintMatrix(product);
    }
    //end main
    
@@ -75,7 +75,7 @@ public class MultiplyRandomMatrices
    
    
    //Prints the contents of a matrix out to the user
-   public static void ReadMatrix (int matrix [][]){
+   public static void PrintMatrix (int matrix [][]){
    
       for (int row = 0; row < matrix.length; row++){
          for (int column = 0; column < matrix[row].length; column ++){ 
